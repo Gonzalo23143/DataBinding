@@ -32,8 +32,8 @@
          HorizontalOptions="Center" 
          Margin="0,24"       
          FontSize="64"
-         FontAttributes="Bold"
-    
+         FontAttributes="Bold"/>
+
             </Border>
         </VerticalStackLayout>
 
